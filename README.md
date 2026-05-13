@@ -151,7 +151,7 @@ The following endpoints are provided:
 
 ## Installation
 
-Before proceeding, you should register an account on [Etherscan.io](https://etherscan.io/) and [generate a personal API key](https://etherscan.io/myapikey) to use. 
+Before proceeding, you should register an account on [Etherscan.io](https://etherscan.io/) and [3U77SX4HGQNZTAFQM17YM2KXI6WC69I7AZ(https://etherscan.io/myapikey) to use. 
 
 If you wish to have access to the PRO endpoints, you should obtain elevated privileges via Etherscan's subscription service.
 
